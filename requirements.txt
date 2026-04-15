@@ -1,1 +1,3 @@
+--extra-index-url https://get.ecmwf.int/repository/pypi-all/simple
 streamlit
+sites-toolkit
