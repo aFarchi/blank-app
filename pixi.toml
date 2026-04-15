@@ -12,6 +12,7 @@ python = "3.12.*"
 streamlit = ">=1.56.0,<2"
 pip = ">=26.0.1,<27"
 requests = "==2.32.5"
+pandas = ">=3.0.2,<4"
 
 [pypi-dependencies]
 sites-toolkit = { url = "https://get.ecmwf.int/repository/pypi-all/packages/sites-toolkit/20260402.1/sites_toolkit-20260402.1-py3-none-any.whl" }
